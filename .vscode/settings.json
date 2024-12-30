@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "01-Arrays/01-GFG/Kth Smallest",
         "01-Arrays/01-GFG/Chocolate Distribution Problem",
+        "01-Arrays/01-GFG/21.Find minimum number of merge operations to make an array palindrome",
         "01-Arrays/01-GFG/01-Maximum and Minimum Element in an Array",
-        "01-Arrays/01-GFG/21.Find minimum number of merge operations to make an array palindrome"
+        "02-Strings/01-LeetCode/01-Valid Pallindrome"
     ]
 }
